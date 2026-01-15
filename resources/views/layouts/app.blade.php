@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>MATMA | {{ $title }}</title>
+    <title>Matma | {{ $title }}</title>
 
     <!-- Custom fonts for this template-->
     <link href="{{ asset("sbadmin2/vendor/fontawesome-free/css/all.min.css") }}" rel="stylesheet" type="text/css">
@@ -35,7 +35,7 @@
                 <div class="sidebar-brand-icon">
                   <i class="fab fa-maxcdn"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">MATMA</div>
+                <div class="sidebar-brand-text mx-3">Matma</div>
             </a>
 
             <!-- Divider -->
